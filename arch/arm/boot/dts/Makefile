@@ -614,6 +614,7 @@ dtb-$(CONFIG_MACH_SUN4I) += \
 dtb-$(CONFIG_MACH_SUN5I) += \
 	ntc-gr8-crumb.dtb \
 	ntc-gr8-evb.dtb \
+	loop.dtb \
 	sun5i-a10s-auxtek-t003.dtb \
 	sun5i-a10s-auxtek-t004.dtb \
 	sun5i-a10s-mk802.dtb \
